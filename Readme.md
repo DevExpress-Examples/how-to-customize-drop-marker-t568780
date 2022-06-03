@@ -3,18 +3,29 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T568780)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [Converters.cs](./CS/Converters.cs) (VB: [Converters.vb](./VB/Converters.vb))
+# WPF Data Grid - Customize the Drop Marker
+
+This example demonstrates how to customize the [Drop Marker](http://docs.devexpress.com/WPF/119483/controls-and-libraries/data-grid/drag-and-drop/drop-marker).
+
+![](http://docs.devexpress.com/WPF/images/dragdropindicatorexample131336.gif)
+
+<!-- default file list -->
+
+## Files to Look At
+
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+
 <!-- default file list end -->
-# How to customize drop marker
 
+## Documentation
 
-This example demonstrates how to customize the <a href="https://documentation.devexpress.com/WPF/119483/Controls-and-Libraries/Data-Grid/Drag-and-Drop/Drop-Marker">Drop Marker</a>.
+* [Drop Marker](http://docs.devexpress.com/WPF/119483/controls-and-libraries/data-grid/drag-and-drop/drop-marker)
+* [Drag-and-Drop Hint](http://docs.devexpress.com/WPF/119240/controls-and-libraries/data-grid/drag-and-drop/drag-and-drop-hint)
+* [Drag-and-Drop](http://docs.devexpress.com/WPF/11346/controls-and-libraries/data-grid/drag-and-drop)
 
-<br/>
+## More Examples
 
-
+* [WPF Data Grid - Manually Control Drag-and-Drop](https://github.com/DevExpress-Examples/how-to-manually-control-drag-and-drop-in-the-gridcontrol-e3921)
+* [WPF Data Grid - Implement Drag-and-Drop Between the GridControl and Other Controls](https://github.com/DevExpress-Examples/how-to-implement-drag-and-drop-between-the-gridcontrol-and-other-controls-t566741)
