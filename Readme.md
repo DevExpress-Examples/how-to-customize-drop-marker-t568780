@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128649631/22.2.2%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T568780)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 
 # WPF Data Grid - Customize the Drop Marker
@@ -29,3 +30,10 @@ This example demonstrates how to customize the [Drop Marker](http://docs.devexpr
 
 * [WPF Data Grid - Manually Control Drag-and-Drop](https://github.com/DevExpress-Examples/how-to-manually-control-drag-and-drop-in-the-gridcontrol-e3921)
 * [WPF Data Grid - Implement Drag-and-Drop Between the GridControl and Other Controls](https://github.com/DevExpress-Examples/how-to-implement-drag-and-drop-between-the-gridcontrol-and-other-controls-t566741)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-customize-drop-marker-t568780&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-customize-drop-marker-t568780&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
